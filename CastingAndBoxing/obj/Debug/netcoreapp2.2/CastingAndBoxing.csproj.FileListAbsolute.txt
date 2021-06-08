@@ -1,0 +1,10 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\bin\Debug\netcoreapp2.2\CastingAndBoxing.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\bin\Debug\netcoreapp2.2\CastingAndBoxing.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\bin\Debug\netcoreapp2.2\CastingAndBoxing.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\bin\Debug\netcoreapp2.2\CastingAndBoxing.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\bin\Debug\netcoreapp2.2\CastingAndBoxing.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\obj\Debug\netcoreapp2.2\CastingAndBoxing.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\obj\Debug\netcoreapp2.2\CastingAndBoxing.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\obj\Debug\netcoreapp2.2\CastingAndBoxing.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\obj\Debug\netcoreapp2.2\CastingAndBoxing.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\CastingAndBoxing\obj\Debug\netcoreapp2.2\CastingAndBoxing.pdb
