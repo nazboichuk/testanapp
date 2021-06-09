@@ -35,5 +35,22 @@ namespace PetProject
 			//Assert
 			Assert.AreEqual(expectedResult, actualResult);
 		}
+
+		// Repace method
+		[DataTestMethod]
+		[DataRow("Test", "Test Data")]
+		public void ReplaceString(string value, string value1)
+		{
+
+		}
+
+		// Remove method
+		[DataTestMethod]
+		[DataRow("Test", 2)]
+		public void RemoveString(string value, string value1)
+		{
+
+		}
+
 	}
 }
