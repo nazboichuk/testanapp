@@ -1,0 +1,9 @@
+C:\Users\nboichuk\source\repos\OperationWithStrings\bin\Debug\netstandard2.0\OperationWithStrings.deps.json
+C:\Users\nboichuk\source\repos\OperationWithStrings\bin\Debug\netstandard2.0\OperationWithStrings.dll
+C:\Users\nboichuk\source\repos\OperationWithStrings\bin\Debug\netstandard2.0\OperationWithStrings.pdb
+C:\Users\nboichuk\source\repos\OperationWithStrings\obj\Debug\netstandard2.0\OperationWithStrings.csprojAssemblyReference.cache
+C:\Users\nboichuk\source\repos\OperationWithStrings\obj\Debug\netstandard2.0\OperationWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\source\repos\OperationWithStrings\obj\Debug\netstandard2.0\OperationWithStrings.AssemblyInfoInputs.cache
+C:\Users\nboichuk\source\repos\OperationWithStrings\obj\Debug\netstandard2.0\OperationWithStrings.AssemblyInfo.cs
+C:\Users\nboichuk\source\repos\OperationWithStrings\obj\Debug\netstandard2.0\OperationWithStrings.dll
+C:\Users\nboichuk\source\repos\OperationWithStrings\obj\Debug\netstandard2.0\OperationWithStrings.pdb
