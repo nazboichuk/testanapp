@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nboichuk\\source\\repos\\OperationWithStrings\\OperationWithStrings.csproj",
+      "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\OperationWithStrings\\OperationWithStrings.csproj",
       "projectName": "OperationWithStrings",
-      "projectPath": "C:\\Users\\nboichuk\\source\\repos\\OperationWithStrings\\OperationWithStrings.csproj",
+      "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\OperationWithStrings\\OperationWithStrings.csproj",
       "packagesPath": "C:\\Users\\nboichuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nboichuk\\source\\repos\\OperationWithStrings\\obj\\",
+      "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\OperationWithStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
