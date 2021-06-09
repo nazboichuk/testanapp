@@ -33,5 +33,6 @@ namespace OperationWithStrings
 		{
 			return value.ToLower();
 		}
+
 	}
 }
