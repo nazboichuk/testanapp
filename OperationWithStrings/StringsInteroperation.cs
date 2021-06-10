@@ -19,6 +19,16 @@ namespace OperationWithStrings
 			return s1.Equals(s2);
 		}
 
+		public string ReplaceTheString(string oldValue, string newValue)
+		{
+			return newValue.Replace(oldValue, newValue);
+		}
+
+		public string RemoveTheString(string value, int index)
+		{
+			return value.Remove(index);
+		}
+
 		public string RemoveSpacesFromString(string value)
 		{
 			return value.Trim();
