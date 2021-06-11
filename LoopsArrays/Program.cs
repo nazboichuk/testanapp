@@ -5,6 +5,18 @@ namespace LoopsArrays
 {
 	class Program
 	{
+		// HW - 1
+		public static int CalcFactorialUsingRecursion(int n)
+		{
+			if (n <= 1)
+			{
+				return 1;
+			}
+
+			return n * CalcFactorialUsingRecursion(n - 1);
+		}
+		//n! = n * (n - 1) * (n - 2) * ... * 1
+
 		static void Main(string[] args)
 		{
 			// HW1
@@ -19,33 +31,21 @@ namespace LoopsArrays
 
 			//}
 
-			// No Google - HW3
+			// HW2 ?
+
+			// (No Google, please) - HW3
 			var arr = "1Test78Ok".ToCharArray();
 			Char.IsDigit(arr[0]);
 
-			Console.WriteLine(GetLastItemFromArray(1, 2, 3, 4, 5, 7, 15));
-		}
-
-		// HW - 1
-		public static int CalcFactorialUsingRecursion(int n)
-		{
-			if (n <=1)
-			{
-				return 1;
-			}
-
-			return n * CalcFactorialUsingRecursion(n - 1);
+			//Console.WriteLine(GetLastItemFromArray(1, 2, 3, 4, 5, 7, 15));
 		}
 
 		// Params theory
-		public static int GetLastItemFromArray(params int[] arr)
-		{
-			return arr[arr.Length - 1];
-		}
-
-		//n! = n * (n - 1) * (n - 2) * ... * 1
+		//public static int GetLastItemFromArray(params int[] arr)
+		//{
+		//	return arr[arr.Length - 1];
+		//}
 	}
-
 	//bool[] boolArr = { true, false, true, false };
 	//int[] intArr = new int[3];
 	//long[] longArr = new long[3] { 1, 2, 3 };
