@@ -26,13 +26,8 @@ namespace PetProject
 		[DataRow("Test", "rwa", false)]
 		public void VerifyStringContains(string value, string value1, bool expectedResult)
 		{
-			//Arrange
 			var stringsInterop = new StringsInteroperation();
-
-			//Act
 			var actualResult = stringsInterop.DoesStringContainsOtherString(value, value1);
-
-			//Assert
 			Assert.AreEqual(expectedResult, actualResult);
 		}
 
@@ -50,7 +45,7 @@ namespace PetProject
 		}
 
 		/// <summary>
-		/// Replace method
+		/// Replace the whole text on the new one
 		/// </summary>
 		[DataTestMethod]
 		[DataRow("Test", "Data", "Data")]
@@ -63,7 +58,7 @@ namespace PetProject
 		}
 
 		/// <summary>
-		/// Remove method
+		/// Remove the part of the string
 		/// </summary>
 		[DataTestMethod]
 		[DataRow("Test", 2, "Te")]
@@ -79,6 +74,7 @@ namespace PetProject
 		/// </summary>
 		[DataTestMethod]
 		[DataRow(" Test should be automated ", "Test should be automated")]
+		[DataRow("    test    ", "test")]
 		public void RemoveTheSpacesFromWholeString(string value, string expectedResult)
 		{
 			var stringsInterop = new StringsInteroperation();
@@ -91,6 +87,7 @@ namespace PetProject
 		/// </summary>
 		[DataTestMethod]
 		[DataRow("test", "TEST")]
+		[DataRow("Data 123", "DATA 123")]
 		public void ConvertStringToUpperCase(string value, string expectedResult)
 		{
 			var stringsInterop = new StringsInteroperation();
@@ -99,16 +96,17 @@ namespace PetProject
 		}
 
 		/// <summary>
-		/// Returns a copy of line, in uppercase style
+		/// Returns a copy of line, in lower case style
 		/// </summary>
 		[DataTestMethod]
 		[DataRow("AuToMaTeD", "automated")]
+		[DataRow("S1S2S3S4", "s1s2s3s4")]
+		[DataRow("VERIFY stringS", "verify strings")]
 		public void ConvertStringToTheLowerCase(string value, string expectedResult)
 		{
 			var stringsInterop = new StringsInteroperation();
 			var actualResult = stringsInterop.ConvertStringToLowerCase(value);
 			Assert.AreEqual(expectedResult, actualResult);
 		}
-
 	}
 }
