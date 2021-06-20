@@ -5,7 +5,6 @@ namespace LoopsArrays
 {
 	class Program
 	{
-
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Factorial task: \n");
@@ -13,10 +12,9 @@ namespace LoopsArrays
 			int num = int.Parse(Console.ReadLine());
 			Console.WriteLine($"Factorial {num} using recursion: {CalcFactorialUsingRecursion(num)}");
 			Console.WriteLine($"Factorial {num} using for loop: {CalcFactorialUsingFor(num)}");
+			Console.WriteLine($"Factorial {num} using while loop: {CalcFactorialUsingWhile(num)}");
 			Console.WriteLine("End of factorial task: \n");
-
 			Console.WriteLine("Calc Even Numbers task: \n");
-
 		}
 
 		public static int CalcFactorialUsingRecursion(int n)
@@ -36,6 +34,17 @@ namespace LoopsArrays
 			for (int i = 1; i <= n; i++)
 				result = result * i;
 			return result;
+		}
+
+		public static int CalcFactorialUsingWhile(int i)
+		{
+			int result;
+			result = 1;
+			while (result > 0)
+			{
+				Console.WriteLine(i);
+				i--;
+			}
 		}
 
 
