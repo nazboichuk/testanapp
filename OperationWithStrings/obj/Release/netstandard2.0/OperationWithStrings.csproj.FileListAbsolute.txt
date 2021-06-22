@@ -1,8 +1,8 @@
-/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/bin/Release/netstandard2.0/OperationWithStrings.deps.json
-/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/bin/Release/netstandard2.0/OperationWithStrings.dll
-/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/bin/Release/netstandard2.0/OperationWithStrings.pdb
-/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/obj/Release/netstandard2.0/OperationWithStrings.AssemblyInfoInputs.cache
-/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/obj/Release/netstandard2.0/OperationWithStrings.AssemblyInfo.cs
-/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/obj/Release/netstandard2.0/OperationWithStrings.csproj.CoreCompileInputs.cache
-/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/obj/Release/netstandard2.0/OperationWithStrings.dll
-/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/obj/Release/netstandard2.0/OperationWithStrings.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\OperationWithStrings\bin\Release\netstandard2.0\OperationWithStrings.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\OperationWithStrings\bin\Release\netstandard2.0\OperationWithStrings.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\OperationWithStrings\bin\Release\netstandard2.0\OperationWithStrings.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\OperationWithStrings\obj\Release\netstandard2.0\OperationWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\OperationWithStrings\obj\Release\netstandard2.0\OperationWithStrings.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\OperationWithStrings\obj\Release\netstandard2.0\OperationWithStrings.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\OperationWithStrings\obj\Release\netstandard2.0\OperationWithStrings.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\OperationWithStrings\obj\Release\netstandard2.0\OperationWithStrings.pdb
