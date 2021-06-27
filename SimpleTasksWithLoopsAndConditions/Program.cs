@@ -12,13 +12,13 @@ namespace SimpleTasksWithLoopsAndConditions
 		// HW 4
 		// Make a function that will return a greeting statement that uses an input;
 		// your program should return, "Hello, <name> how are you doing today?"
-		public static void Greeting()
+		/*public static void Greeting()
 		{
 			Console.Write("Enter the name: ");
 			string name = Convert.ToString(Console.ReadLine());
 			Console.WriteLine("Hello, {0} how are you doing today?", name);
 			Console.ReadKey();
-		}
+		}*/
 
 
 //		// HW 6
@@ -31,8 +31,9 @@ namespace SimpleTasksWithLoopsAndConditions
 			string rev = Console.ReadLine(); // hello world
 			string[] subs = rev.Split(' '); // [hello, world]
 			Array.Reverse(subs); // [world, hello]
-			//var output = string.Join(' ', subs); // world hello
-			//Console.WriteLine(output);
+			var output = string.Join(' ', subs); // world hello
+			Console.WriteLine(output);
+			
 			for (int i = 0; i < length; i++)
 			{
 

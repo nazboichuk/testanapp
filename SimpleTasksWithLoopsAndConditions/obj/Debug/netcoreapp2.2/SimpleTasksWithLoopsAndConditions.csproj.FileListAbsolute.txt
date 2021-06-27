@@ -1,0 +1,12 @@
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/obj/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.csprojAssemblyReference.cache
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/obj/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.AssemblyInfoInputs.cache
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/obj/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.AssemblyInfo.cs
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/obj/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.csproj.CoreCompileInputs.cache
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/bin/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.deps.json
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/bin/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.runtimeconfig.json
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/bin/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.runtimeconfig.dev.json
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/bin/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.dll
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/bin/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.pdb
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/obj/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.dll
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/obj/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.pdb
+/Users/nboichuk/Documents/GitHub/testanapp/SimpleTasksWithLoopsAndConditions/obj/Debug/netcoreapp2.2/SimpleTasksWithLoopsAndConditions.genruntimeconfig.cache
