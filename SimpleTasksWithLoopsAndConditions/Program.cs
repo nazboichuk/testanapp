@@ -21,11 +21,11 @@ namespace SimpleTasksWithLoopsAndConditions
 		}
 
 
-		// HW 6
-		// Complete the solution so that it reverses all of the words within the string passed in.
-		// Example: "The greatest victory is that which requires no battle"-- > "battle no requires which that is victory greatest The"
+//		// HW 6
+//		// Complete the solution so that it reverses all of the words within the string passed in.
+//		// Example: "The greatest victory is that which requires no battle"-- > "battle no requires which that is victory greatest The"
 
-		// concat reversed array with for loop
+//		// concat reversed array with for loop
 		public static void ReverseString()
 		{
 			string rev = Console.ReadLine(); // hello world
