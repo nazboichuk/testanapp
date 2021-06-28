@@ -20,6 +20,7 @@ namespace SimpleTasksWithLoopsAndConditions
 		{
 			int catAge = 0;
 			int dogAge = 0;
+
 			return new int[] { humanYears, catAge, dogAge };
 		}
 	}
