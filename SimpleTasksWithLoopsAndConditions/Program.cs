@@ -20,12 +20,9 @@ namespace SimpleTasksWithLoopsAndConditions
 			Console.ReadKey();
 		}*/
 
-
-//		// HW 6
-//		// Complete the solution so that it reverses all of the words within the string passed in.
-//		// Example: "The greatest victory is that which requires no battle"-- > "battle no requires which that is victory greatest The"
-
-//		// concat reversed array with for loop
+		// HW 6 - complete the solution so that it reverses all of the words within the string passed in.
+		// Example: "The greatest victory is that which requires no battle"-- > "battle no requires which that is victory greatest The"
+		// concat reversed array with for loop
 		public static void ReverseString()
 		{
 			string rev = Console.ReadLine(); // hello world
@@ -37,6 +34,11 @@ namespace SimpleTasksWithLoopsAndConditions
 			for (int i = 0; i < length; i++)
 			{
 
+			}
+
+			for (int i = stringArray.Length - 1; i >= 0; i--)
+			{
+				reverse += stringArray[i];
 			}
 
 			Console.ReadKey();
