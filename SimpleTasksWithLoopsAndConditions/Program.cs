@@ -6,7 +6,8 @@ namespace SimpleTasksWithLoopsAndConditions
 	{
 		static void Main(string[] args)
 		{
-			ReverseString();
+			ReverseStringUsingJoin();
+			ReverseStringUsingFor();
 		}
 
 		// HW 4
@@ -24,19 +25,27 @@ namespace SimpleTasksWithLoopsAndConditions
 		// Example: "The greatest victory is that which requires no battle "-- > "battle no requires which that is victory greatest The"
 		// concat reversed array with for loop
 		// delete the last space of the outpout result
-		public static void ReverseString()
+		public static void ReverseStringUsingJoin()
 		{
-			string rev = "The greatest victory is that which requires no battle ";
+			string rev = "The greatest victory is that which requires no battle";
 			string[] subs = rev.Split(' ');
 			Array.Reverse(subs);
 			var output = string.Join(' ', subs);
-			Console.WriteLine(output.TrimStart(' '));
+			Console.WriteLine(output);
+		}
+
+		public static void ReverseStringUsingFor()
+		{
+			string rev = "The greatest victory is that which requires no battle ";
+			string[] subs = rev.Split(' ');
+			string output = string.Empty;
 
 			for (int i = subs.Length - 1; i >= 0; i--)
 			{
-				rev += subs[i] + " ";
+				output += subs[i] + " ";
 			}
 
+			Console.WriteLine(output.Trim());
 			Console.ReadKey();
 		}
 	}

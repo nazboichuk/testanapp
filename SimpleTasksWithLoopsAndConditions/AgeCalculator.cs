@@ -18,8 +18,22 @@ namespace SimpleTasksWithLoopsAndConditions
 		// 15 dog years for first year; +9 dog years for second year; +5 dog years for each year after that
 		public int[] CalcYears(int humanYears)
 		{
-			int catAge = 0;
-			int dogAge = 0;
+			int catAge = 15;
+			int dogAge = 15;
+
+			for (int year = 2; year <= humanYears; year++)
+			{
+				if (year == 2)
+				{
+					catAge += 9;
+					dogAge += 9;
+				}
+				else
+				{
+					catAge += 4;
+					dogAge += 5;
+				}
+			}
 
 			return new int[] { humanYears, catAge, dogAge };
 		}
