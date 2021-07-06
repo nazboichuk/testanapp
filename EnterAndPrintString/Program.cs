@@ -9,6 +9,7 @@ namespace EnterAndPrintString
 			// HW 1
 			// Enter the name of the drink (coffee, tea, juice, water). Print the name of the drink and its price.
 			PrintPriceForDrink();
+			PrintEachSecondCharacter();
 
 			// HW 2
 			// Enter a character string. Print each second character
@@ -17,6 +18,7 @@ namespace EnterAndPrintString
 
 		public static void PrintPriceForDrink()
 		{
+			Console.WriteLine("Homework #1");
 			Console.WriteLine("Enter your drink name to buy:");
 			string name = Console.ReadLine();
 			switch (name)
@@ -37,6 +39,24 @@ namespace EnterAndPrintString
 					Console.WriteLine("***** Drink not found ******");
 					break;
 			}
+		}
+
+		public static void PrintEachSecondCharacter()
+		{
+			Console.WriteLine("Homework #2");
+			Console.WriteLine("Enter the words/sentence:");
+			string word = Console.ReadLine();
+
+			var result = string.Empty;
+			for (var i = 0; i < word.Length; i++)
+			{
+				if (i % 2 == 0) result += word[i];
+			}
+
+			//var output = string.Join(' ', word);
+			//var s = string.Join((word % 2) != 0);
+
+			Console.WriteLine(result);
 		}
 	}
 }
