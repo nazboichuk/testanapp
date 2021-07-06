@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\bin\Release\netcoreapp2.2\EnterAndPrintString.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\bin\Release\netcoreapp2.2\EnterAndPrintString.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\bin\Release\netcoreapp2.2\EnterAndPrintString.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\bin\Release\netcoreapp2.2\EnterAndPrintString.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\bin\Release\netcoreapp2.2\EnterAndPrintString.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\obj\Release\netcoreapp2.2\EnterAndPrintString.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\obj\Release\netcoreapp2.2\EnterAndPrintString.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\obj\Release\netcoreapp2.2\EnterAndPrintString.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\obj\Release\netcoreapp2.2\EnterAndPrintString.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\obj\Release\netcoreapp2.2\EnterAndPrintString.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\EnterAndPrintString\obj\Release\netcoreapp2.2\EnterAndPrintString.csprojAssemblyReference.cache
