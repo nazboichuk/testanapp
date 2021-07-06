@@ -1,0 +1,17 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\obj\Release\netcoreapp2.2\CADCalcTests.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\obj\Release\netcoreapp2.2\CADCalcTests.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\obj\Release\netcoreapp2.2\CADCalcTests.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\obj\Release\netcoreapp2.2\CADCalcTests.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\CADCalcTests.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\CADCalcTests.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\CADCalcTests.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\CADCalcTests.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\CADCalcTests.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\SimpleTasksWithLoopsAndConditions.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\bin\Release\netcoreapp2.2\SimpleTasksWithLoopsAndConditions.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\obj\Release\netcoreapp2.2\CADCalcTests.csproj.CopyComplete
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\obj\Release\netcoreapp2.2\CADCalcTests.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\CADCalcTests\obj\Release\netcoreapp2.2\CADCalcTests.pdb

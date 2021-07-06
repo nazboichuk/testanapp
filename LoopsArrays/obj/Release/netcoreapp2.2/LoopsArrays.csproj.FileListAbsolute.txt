@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\bin\Release\netcoreapp2.2\LoopsArrays.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\bin\Release\netcoreapp2.2\LoopsArrays.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\bin\Release\netcoreapp2.2\LoopsArrays.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\bin\Release\netcoreapp2.2\LoopsArrays.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\bin\Release\netcoreapp2.2\LoopsArrays.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\obj\Release\netcoreapp2.2\LoopsArrays.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\obj\Release\netcoreapp2.2\LoopsArrays.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\obj\Release\netcoreapp2.2\LoopsArrays.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\obj\Release\netcoreapp2.2\LoopsArrays.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\obj\Release\netcoreapp2.2\LoopsArrays.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\LoopsArrays\obj\Release\netcoreapp2.2\LoopsArrays.pdb
