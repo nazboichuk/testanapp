@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CADCalcTests", "..\CADCalcT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterAndPrintString", "..\EnterAndPrintString\EnterAndPrintString.csproj", "{6BE99A26-52A5-471B-B471-1E77E7F4A47E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTheLottery", "WinTheLottery\WinTheLottery.csproj", "{51F055E7-C436-4410-BB4D-410FE6A4ACB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{6BE99A26-52A5-471B-B471-1E77E7F4A47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE99A26-52A5-471B-B471-1E77E7F4A47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE99A26-52A5-471B-B471-1E77E7F4A47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F055E7-C436-4410-BB4D-410FE6A4ACB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F055E7-C436-4410-BB4D-410FE6A4ACB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F055E7-C436-4410-BB4D-410FE6A4ACB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F055E7-C436-4410-BB4D-410FE6A4ACB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
