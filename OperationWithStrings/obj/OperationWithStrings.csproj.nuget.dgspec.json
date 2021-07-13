@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/OperationWithStrings.csproj": {}
+    "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\OperationWithStrings\\OperationWithStrings.csproj": {}
   },
   "projects": {
-    "/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/OperationWithStrings.csproj": {
+    "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\OperationWithStrings\\OperationWithStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/OperationWithStrings.csproj",
+        "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\OperationWithStrings\\OperationWithStrings.csproj",
         "projectName": "OperationWithStrings",
-        "projectPath": "/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/OperationWithStrings.csproj",
-        "packagesPath": "/Users/nboichuk/.nuget/packages/",
-        "outputPath": "/Users/nboichuk/Documents/GitHub/testanapp/OperationWithStrings/obj/",
+        "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\OperationWithStrings\\OperationWithStrings.csproj",
+        "packagesPath": "C:\\Users\\nboichuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\OperationWithStrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/nboichuk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\nboichuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,16 +49,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

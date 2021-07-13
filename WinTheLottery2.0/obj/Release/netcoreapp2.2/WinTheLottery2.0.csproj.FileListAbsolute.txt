@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\bin\Release\netcoreapp2.2\WinTheLottery2.0.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\bin\Release\netcoreapp2.2\WinTheLottery2.0.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\bin\Release\netcoreapp2.2\WinTheLottery2.0.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\bin\Release\netcoreapp2.2\WinTheLottery2.0.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\bin\Release\netcoreapp2.2\WinTheLottery2.0.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\obj\Release\netcoreapp2.2\WinTheLottery2.0.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\obj\Release\netcoreapp2.2\WinTheLottery2.0.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\obj\Release\netcoreapp2.2\WinTheLottery2.0.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\obj\Release\netcoreapp2.2\WinTheLottery2.0.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\obj\Release\netcoreapp2.2\WinTheLottery2.0.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\WinTheLottery2.0\obj\Release\netcoreapp2.2\WinTheLottery2.0.csprojAssemblyReference.cache

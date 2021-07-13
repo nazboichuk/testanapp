@@ -15,9 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CatAndDogYearsCalculator", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CADCalcTests", "..\CADCalcTests\CADCalcTests.csproj", "{5EB76546-6624-40C9-9F7D-445A0B4539CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterAndPrintString", "..\EnterAndPrintString\EnterAndPrintString.csproj", "{6BE99A26-52A5-471B-B471-1E77E7F4A47E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnterAndPrintString", "..\EnterAndPrintString\EnterAndPrintString.csproj", "{6BE99A26-52A5-471B-B471-1E77E7F4A47E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTheLottery", "WinTheLottery\WinTheLottery.csproj", "{51F055E7-C436-4410-BB4D-410FE6A4ACB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinTheLottery2.0", "..\WinTheLottery2.0\WinTheLottery2.0.csproj", "{6A4AB78C-F7BD-43D3-953D-384503912845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleAreaCalculator", "..\TriangleAreaCalculator\TriangleAreaCalculator.csproj", "{8F905395-CBE0-44AA-A228-AF917E6BEC00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,10 +51,14 @@ Global
 		{6BE99A26-52A5-471B-B471-1E77E7F4A47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE99A26-52A5-471B-B471-1E77E7F4A47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE99A26-52A5-471B-B471-1E77E7F4A47E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{51F055E7-C436-4410-BB4D-410FE6A4ACB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{51F055E7-C436-4410-BB4D-410FE6A4ACB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{51F055E7-C436-4410-BB4D-410FE6A4ACB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{51F055E7-C436-4410-BB4D-410FE6A4ACB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4AB78C-F7BD-43D3-953D-384503912845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4AB78C-F7BD-43D3-953D-384503912845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4AB78C-F7BD-43D3-953D-384503912845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4AB78C-F7BD-43D3-953D-384503912845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F905395-CBE0-44AA-A228-AF917E6BEC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F905395-CBE0-44AA-A228-AF917E6BEC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F905395-CBE0-44AA-A228-AF917E6BEC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F905395-CBE0-44AA-A228-AF917E6BEC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
