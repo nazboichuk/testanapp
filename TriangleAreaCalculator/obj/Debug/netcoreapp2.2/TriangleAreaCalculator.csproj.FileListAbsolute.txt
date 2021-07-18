@@ -1,0 +1,12 @@
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/bin/Debug/netcoreapp2.2/TriangleAreaCalculator.deps.json
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/bin/Debug/netcoreapp2.2/TriangleAreaCalculator.runtimeconfig.json
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/bin/Debug/netcoreapp2.2/TriangleAreaCalculator.runtimeconfig.dev.json
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/bin/Debug/netcoreapp2.2/TriangleAreaCalculator.dll
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/bin/Debug/netcoreapp2.2/TriangleAreaCalculator.pdb
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/obj/Debug/netcoreapp2.2/TriangleAreaCalculator.csprojAssemblyReference.cache
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/obj/Debug/netcoreapp2.2/TriangleAreaCalculator.AssemblyInfoInputs.cache
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/obj/Debug/netcoreapp2.2/TriangleAreaCalculator.AssemblyInfo.cs
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/obj/Debug/netcoreapp2.2/TriangleAreaCalculator.csproj.CoreCompileInputs.cache
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/obj/Debug/netcoreapp2.2/TriangleAreaCalculator.dll
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/obj/Debug/netcoreapp2.2/TriangleAreaCalculator.pdb
+/Users/nboichuk/Documents/GitHub/testanapp/TriangleAreaCalculator/obj/Debug/netcoreapp2.2/TriangleAreaCalculator.genruntimeconfig.cache
