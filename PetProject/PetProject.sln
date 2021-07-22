@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinTheLottery2.0", "..\WinT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleAreaCalculator", "..\TriangleAreaCalculator\TriangleAreaCalculator.csproj", "{8F905395-CBE0-44AA-A228-AF917E6BEC00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleAreaCalculate2.0", "..\TriangleAreaCalculate2.0\TriangleAreaCalculate2.0.csproj", "{041360D5-12D5-4B39-9F60-3BC497778270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleAreaCalculate2.0", "..\TriangleAreaCalculate2.0\TriangleAreaCalculate2.0.csproj", "{041360D5-12D5-4B39-9F60-3BC497778270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutIntro", "..\RefOutIntro\RefOutIntro.csproj", "{B02498EE-151A-48BB-8C40-FA1ABD595E08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +67,10 @@ Global
 		{041360D5-12D5-4B39-9F60-3BC497778270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{041360D5-12D5-4B39-9F60-3BC497778270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{041360D5-12D5-4B39-9F60-3BC497778270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02498EE-151A-48BB-8C40-FA1ABD595E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02498EE-151A-48BB-8C40-FA1ABD595E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02498EE-151A-48BB-8C40-FA1ABD595E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02498EE-151A-48BB-8C40-FA1ABD595E08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\bin\Release\netcoreapp2.2\RefOutIntro.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\bin\Release\netcoreapp2.2\RefOutIntro.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\bin\Release\netcoreapp2.2\RefOutIntro.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\bin\Release\netcoreapp2.2\RefOutIntro.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\bin\Release\netcoreapp2.2\RefOutIntro.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\obj\Release\netcoreapp2.2\RefOutIntro.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\obj\Release\netcoreapp2.2\RefOutIntro.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\obj\Release\netcoreapp2.2\RefOutIntro.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\obj\Release\netcoreapp2.2\RefOutIntro.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\RefOutIntro\obj\Release\netcoreapp2.2\RefOutIntro.pdb
