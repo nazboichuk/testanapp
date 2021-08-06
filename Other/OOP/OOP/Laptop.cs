@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP
 {
-	// working with value type
+	// Working with value type
 	public struct GPU
 	{
 		public int GpuRam;
@@ -25,10 +25,8 @@ namespace OOP
 		}
 	}
 
-	// working with reff
+	// Working with reff type
 	public class Laptop
-	//В класі Laptop мають бути 2-3 конструктори, та методи, що дозволяють змінювати комплектуючі(пам'ять, відеокарту, процесор, тощо)
-	//А також має бути метод, який у вигляді тексту повертає інформацію про ноут
 	{
 		public string manufacturer;
 		public string model;
