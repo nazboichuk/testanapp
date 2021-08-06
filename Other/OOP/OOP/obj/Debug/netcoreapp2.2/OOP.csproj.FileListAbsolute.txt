@@ -1,0 +1,12 @@
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/bin/Debug/netcoreapp2.2/OOP.deps.json
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/bin/Debug/netcoreapp2.2/OOP.runtimeconfig.json
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/bin/Debug/netcoreapp2.2/OOP.runtimeconfig.dev.json
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/bin/Debug/netcoreapp2.2/OOP.dll
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/bin/Debug/netcoreapp2.2/OOP.pdb
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/obj/Debug/netcoreapp2.2/OOP.csprojAssemblyReference.cache
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/obj/Debug/netcoreapp2.2/OOP.AssemblyInfoInputs.cache
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/obj/Debug/netcoreapp2.2/OOP.AssemblyInfo.cs
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/obj/Debug/netcoreapp2.2/OOP.csproj.CoreCompileInputs.cache
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/obj/Debug/netcoreapp2.2/OOP.dll
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/obj/Debug/netcoreapp2.2/OOP.pdb
+/Users/nboichuk/Documents/GitHub/testanapp/Other/OOP/OOP/obj/Debug/netcoreapp2.2/OOP.genruntimeconfig.cache
