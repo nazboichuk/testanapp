@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\bin\Release\netcoreapp2.2\OOP.deps.json
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\bin\Release\netcoreapp2.2\OOP.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\bin\Release\netcoreapp2.2\OOP.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\bin\Release\netcoreapp2.2\OOP.dll
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\bin\Release\netcoreapp2.2\OOP.pdb
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\obj\Release\netcoreapp2.2\OOP.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\obj\Release\netcoreapp2.2\OOP.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\obj\Release\netcoreapp2.2\OOP.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\obj\Release\netcoreapp2.2\OOP.dll
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\obj\Release\netcoreapp2.2\OOP.pdb
+C:\Users\nboichuk\Documents\GitHub\OOP\OOP\obj\Release\netcoreapp2.2\OOP.csprojAssemblyReference.cache
