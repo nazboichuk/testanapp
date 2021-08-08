@@ -1,73 +1,81 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Text;
 
 namespace OOP
 {
 	public struct GPU
 	{
-		public int gpuRam;
+		public int GpuRam;
 
 		public string GetInfoGpu()
 		{
-			return $"We have the {gpuRam} RAM of the videocard in the laptop.";
+			return $"We have the {GpuRam} RAM of the videocard in the laptop.";
 		}
 	}
 
 	public struct CPU
 	{
-		public double cpuFrequency;
+		public double CpuFrequency;
 
 		public string GetInfoCpu()
 		{
-			return $"We have the {cpuFrequency} processor frequency in the laptop.";
+			return $"We have the {CpuFrequency} processor frequency in the laptop.";
 		}
 	}
 	
 	public class Laptop
 	{
-		public string manufacturer;
-		public string model;
-		public int ram;
-		public int hdd;
-		public CPU cpuFrequency;
-		public GPU gpuRam;
+		public string Manufacturer;
+		public string Model;
+		public int Ram;
+		public int Hdd;
+		public CPU Cpu;
+		public GPU Gpu;
 
 		public Laptop()
 		{
 		}
-
-		public Laptop(int ram, int hdd)
+		
+		public Laptop(int ram, int hdd, double cpuFreq, int gpuRam)
 		{
-			this.ram = ram;
-			this.hdd = hdd;
+			Ram = ram;
+			Hdd = hdd;
+			Cpu.CpuFrequency = cpuFreq;
+			Gpu.GpuRam = gpuRam;
 		}
 		
 		public Laptop(string manufacturer, string model)
 		{
-			this.manufacturer = manufacturer;
-			this.model = model;
+			Manufacturer = manufacturer;
+			Model = model;
+		}
+		
+		public Laptop(int ram)
+		{
+
 		}
 
 		public Laptop ChangeLaptopType(string manufacturer, string model)
 		{
-			this.manufacturer = manufacturer;
-			this.model = model;
+			Manufacturer = manufacturer;
+			Model = model;
 			return this;
 		}
 
 		public Laptop ChangeLaptopParts(int ram, int hdd)
 		{
-			this.ram = ram;
-			this.hdd = hdd;
+			Ram = ram;
+			Hdd = hdd;
 			return this;
 		}
 
 		public void ViewLaptopInfo()
 		{
-			Console.WriteLine($"The RAM is {ram}, GB and the hard drive is {hdd} TB.");
-			Console.WriteLine($"The brand is {manufacturer}, and model is {model}.");
-			Console.WriteLine($"The frequency of the CPU is {cpuFrequency}, and memory for the graphics card is {gpuRam} GB.");
+			Console.WriteLine($"The RAM is {Ram}, GB and the hard drive is {Hdd} TB.");
+			Console.WriteLine($"The brand is {Manufacturer}, and model is {Model}.");
+			Console.WriteLine($"The frequency of the CPU is {Cpu}, and memory for the graphics card is {Gpu} GB.");
 		}
 
 	}
