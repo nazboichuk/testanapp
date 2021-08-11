@@ -24,7 +24,16 @@ namespace Static
 		{
 			Console.WriteLine("The Age is:");
 			var age = Int32.Parse(Console.ReadLine());
-			return age;
+			if (age > 0)
+			{
+				return age;
+			}
+			else
+			{
+				Console.WriteLine("Please, enter correct age");
+				return 0;
+			}
+
 		}
 	}
 }
