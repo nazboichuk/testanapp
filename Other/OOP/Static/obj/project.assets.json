@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\OOP\\OOP\\OOP.csproj",
-      "projectName": "OOP",
-      "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\OOP\\OOP\\OOP.csproj",
+      "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\OOP\\Static\\Static.csproj",
+      "projectName": "Static",
+      "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\OOP\\Static\\Static.csproj",
       "packagesPath": "C:\\Users\\nboichuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\OOP\\OOP\\obj\\",
+      "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\OOP\\Static\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

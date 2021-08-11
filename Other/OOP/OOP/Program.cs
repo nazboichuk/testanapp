@@ -6,23 +6,22 @@ namespace OOP
 	{
 		static void Main(string[] args)
 		{
-			// Change the GPU of the videocard
-			var myGpu = new GPU();
-			myGpu.GpuRam = 16;
+			//// #1
+			//var myGpu = new GPU();
+			//myGpu.GpuRam = 16;
+			//var myCpu = new CPU();
+			//myCpu.CpuFrequency = 2.4;
+			
+			//var myLaptop = new Laptop();
+			//myLaptop.ChangeLaptopParts(64, 2);
+			//myLaptop.ChangeLaptopType("Acer", "Aspire");
+			//myLaptop.CPU = myCpu;
+			//myLaptop.GPU = myGpu;
+			//myLaptop.ViewLaptopInfo();
 
-			// Change the frequency of the CPU
-			var myCpu = new CPU();
-			myCpu.CpuFrequency = 2.4;
-			
-			// Change the values #1
-			var myLaptop = new Laptop();
-			myLaptop.ChangeLaptopParts(64, 2);
-			myLaptop.ChangeLaptopType("Acer", "Aspire");
-			myLaptop.Cpu = myCpu;
-			myLaptop.ViewLaptopInfo();
-			
-			//Console.WriteLine(myCpu.GetInfoCpu());
-			//Console.WriteLine(myGpu.GetInfoGpu());
+			// #2
+			var myLaptop2 = new Laptop(2, 2, 1.4, 512, "HP", "Pavilion");
+			myLaptop2.ViewLaptopInfo();
 		}
 	}
 }
