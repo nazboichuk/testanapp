@@ -17,7 +17,15 @@ namespace Static
 		{
 			Console.WriteLine("The Last Name is:");
 			string userLast = (Console.ReadLine());
-			return userLast;
+			if (userLast != null)
+			{
+				return userLast;
+			}
+			else
+			{
+				Console.WriteLine("Last Name cannot be empty");
+				return null;
+			}
 		}
 
 		public static int GetAge()
@@ -30,7 +38,7 @@ namespace Static
 			}
 			else
 			{
-				Console.WriteLine("Please, enter correct age");
+				Console.WriteLine("Incorrect age");
 				return 0;
 			}
 
