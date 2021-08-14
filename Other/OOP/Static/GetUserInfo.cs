@@ -16,14 +16,15 @@ namespace Static
 		public static string GetLastName()
 		{
 			Console.WriteLine("The Last Name is:");
-			string userLast = (Console.ReadLine());
-			if (userLast != null)
+			string userLast = Console.ReadLine();
+
+			if (userLast != "Boichuk")
 			{
 				return userLast;
 			}
 			else
 			{
-				Console.WriteLine("Last Name cannot be empty");
+				Console.WriteLine("Please, do not use code author last name :)");
 				return null;
 			}
 		}
