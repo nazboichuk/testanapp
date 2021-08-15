@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\CsvHelper.csproj": {}
+    "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\GetCsvData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\CsvHelper.csproj": {
+    "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\GetCsvData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\CsvHelper.csproj",
-        "projectName": "CsvHelper",
-        "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\CsvHelper.csproj",
+        "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\GetCsvData.csproj",
+        "projectName": "GetCsvData",
+        "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\GetCsvData.csproj",
         "packagesPath": "C:\\Users\\nboichuk\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\CsvHelper\\obj\\",
         "projectStyle": "PackageReference",
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -39,16 +39,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp2.2": {
           "dependencies": {
             "CsvHelper": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[27.0.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },

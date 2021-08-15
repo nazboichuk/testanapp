@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\GetCsvData.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\GetCsvData.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\GetCsvData.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\GetCsvData.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\GetCsvData.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\GetCsvData.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\GetCsvData.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\GetCsvData.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\GetCsvData.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\GetCsvData.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\GetCsvData.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\Csv.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\Csv.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\Csv.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\bin\Debug\netcoreapp2.2\Csv.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\Csv.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\Csv.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\Csv.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CsvHelper\obj\Debug\netcoreapp2.2\Csv.AssemblyInfo.cs
