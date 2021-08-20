@@ -42,7 +42,6 @@ namespace Static
 				Console.WriteLine("Incorrect age");
 				return 0;
 			}
-
 		}
 	}
 }

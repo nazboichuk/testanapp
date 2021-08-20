@@ -10,8 +10,7 @@ namespace Program
 	{
 		static void Main(string[] args)
 		{
-			GetCsvData.PersonCsvHelper.PersonData();
-
+			GetCsvData.PersonCsvHelper.PersonData(@"C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CSVTest\data\file.csv");
 		}
 	}
 }

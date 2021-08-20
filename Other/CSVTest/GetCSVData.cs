@@ -9,10 +9,10 @@ namespace GetCsvData
 {
 	public static class PersonCsvHelper
 	{
-		public static void PersonData()
+		public static void PersonData(string path)
 		{
-				Person person = new Person();
-			using (var reader = new StreamReader(@"C:\Users\nboichuk\Documents\GitHub\testanapp\Other\CSVTest\data\file.csv"))
+			Person person = new Person();
+			using (var reader = new StreamReader(path))
 			{
 					using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
 					{
