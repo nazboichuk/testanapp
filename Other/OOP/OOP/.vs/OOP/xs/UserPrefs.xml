@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BF58157C-A582-4D0C-854E-E2352E60A300}|Default">
+  <MonoDevelop.Ide.ItemProperties.OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laptop.cs">
+    <Files>
+      <File FileName="Laptop.cs" Line="25" Column="4" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="LaptopParameters/Properties.cs" Line="21" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP" expanded="True">
+            <Node name="OOP" expanded="True">
+              <Node name="LaptopParameters" expanded="True" />
+              <Node name="Laptop.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

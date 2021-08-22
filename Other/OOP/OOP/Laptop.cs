@@ -2,29 +2,12 @@
 using System.Collections.Generic;
 using System.Dynamic;
 using System.Text;
+using static OOP.LaptopParameters.Properties;
 
 namespace OOP
 {
-	public struct GPU
-	{
-		public int GpuRam;
+	private int Temparature;
 
-		public string GetInfoGpu()
-		{
-			return $"We have the {GpuRam} RAM of the videocard in the laptop.";
-		}
-	}
-
-	public struct CPU
-	{
-		public double CpuFrequency;
-
-		public string GetInfoCpu()
-		{
-			return $"We have the {CpuFrequency} processor frequency in the laptop.";
-		}
-	}
-	
 	public class Laptop
 	{
 		public string Manufacturer;
