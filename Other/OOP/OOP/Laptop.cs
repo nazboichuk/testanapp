@@ -5,8 +5,8 @@ namespace OOP
 {
 	public class Laptop
 	{
-		protected int laptopTemparature = 50;
-		public int Temparature { get { return laptopTemparature; } }
+		private int laptopTemperature = 50;
+		public int Temperature { get { return laptopTemperature; } }
 
 		public string Manufacturer;
 		public string Model;
@@ -64,22 +64,16 @@ namespace OOP
 			return this;
 		}
 
-		public void ManageTemparature()
+		public void DoSomeWrok()
 		{
-				Console.WriteLine($"The temparature of the Laptop with the fluff is {Temparature + 10}.");
-
-			//if (Temparature > 50)
-			//{
-			//	Console.WriteLine($"Current Laptop is working on high load.");
-			//}
-			//else if (Temparature < 50)
-			//{
-			//	Console.WriteLine($"Current Laptop is working normally.");
-			//}
-			//else
-			//{
-			//	Console.WriteLine($"Current Laptop is turned off.");
-			//}
+			if (Temperature == 50)
+			{
+				Console.WriteLine($"Current laptop is working and turned on.");
+			}
+			else
+			{
+				Console.WriteLine($"No power!");
+			}
 		}
 
 		public void ViewLaptopInfo()
