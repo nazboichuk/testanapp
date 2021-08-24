@@ -2,9 +2,6 @@
 
 namespace OOP.LaptopParameters
 {
-	/// <summary>
-  /// Used PUBLIC mod
-  /// </summary>
   public class Properties
   {
 		public struct GPU

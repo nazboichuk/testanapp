@@ -25,6 +25,7 @@ namespace OOP
 			// #3 - Check the Laptop temperature
 			var myLaptop3 = new Laptop();
 			myLaptop3.ManageTemparature();
+			//Console.WriteLine(myLaptop3.Temparature);
 		}
 	}
 }
