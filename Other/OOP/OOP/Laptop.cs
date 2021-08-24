@@ -1,15 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Dynamic;
-using System.Text;
 using static OOP.LaptopParameters.Properties;
 
 namespace OOP
 {
-	private int Temparature;
-
 	public class Laptop
 	{
+		private int laptopTemparature = 0;
+		public int Temparature { get { return laptopTemparature; } }
+
 		public string Manufacturer;
 		public string Model;
 		public int RAM;
@@ -20,7 +18,7 @@ namespace OOP
 		public Laptop()
 		{
 		}
-		
+
 		public Laptop(int ram)
 		{
 			RAM = ram;
@@ -64,6 +62,23 @@ namespace OOP
 			RAM = ram;
 			HDD = hdd;
 			return this;
+		}
+
+		public void ManageTemparature()
+		{
+
+			if (Temparature > 50)
+			{
+				Console.WriteLine($"Current Laptop is working on high load.");
+			}
+			else if (Temparature < 50)
+			{
+				Console.WriteLine($"Current Laptop is working normally.");
+			}
+			else
+			{
+				Console.WriteLine($"Current Laptop is turned off.");
+			}
 		}
 
 		public void ViewLaptopInfo()
