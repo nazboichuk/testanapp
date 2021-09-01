@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\bin\Debug\netcoreapp2.2\InheritanceOfShape.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\bin\Debug\netcoreapp2.2\InheritanceOfShape.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\bin\Debug\netcoreapp2.2\InheritanceOfShape.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\bin\Debug\netcoreapp2.2\InheritanceOfShape.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\bin\Debug\netcoreapp2.2\InheritanceOfShape.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\obj\Debug\netcoreapp2.2\InheritanceOfShape.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\obj\Debug\netcoreapp2.2\InheritanceOfShape.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\obj\Debug\netcoreapp2.2\InheritanceOfShape.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\obj\Debug\netcoreapp2.2\InheritanceOfShape.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\obj\Debug\netcoreapp2.2\InheritanceOfShape.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\InheritanceOfShape\InheritanceOfShape\obj\Debug\netcoreapp2.2\InheritanceOfShape.pdb
