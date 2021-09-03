@@ -6,7 +6,7 @@ namespace InheritanceOfShape.Figures
 {
 	class Square : Shape
 	{
-		public int sideA;
+		public double sideA;
 		public double Perimeter;
 
 		public Square(string name, int angles, double perimeter = 0) : base(name, angles)
@@ -14,9 +14,15 @@ namespace InheritanceOfShape.Figures
 			Perimeter = perimeter;
 			Console.WriteLine("---------------- Calculate Square ----------------");
 			Console.WriteLine("Enter Side:");
-			int sideA = int.Parse(Console.ReadLine());
+			double sideA = double.Parse(Console.ReadLine());
 			Perimeter = sideA * sideA;
 			Console.WriteLine($"The name of the object is: {Name}, the amount of angles is: {Angles} and the perimeter is {Perimeter}");
+		}
+
+		public override void SquareAndREctangleArea(int sideA)
+		{
+			base.SquareAndREctangleArea(sideA);
+			result = sideA + sideA;
 		}
 	}
 }

@@ -8,8 +8,9 @@ namespace InheritanceOfShape
 		{
 			var myShape1 = new Figures.Triangle("Triangle", 3);
 			var myShape2 = new Figures.Rectangle("Rectangle", 4);
-			var myShape3 = new Figures.Circle("Circle", 0);
+			var myShape3 = new Figures.Circle("Circle");
 			var myShape4 = new Figures.Square("Square", 4);
+			myShape4.SquareAndREctangleArea(4);
 		}
 	}
 }
