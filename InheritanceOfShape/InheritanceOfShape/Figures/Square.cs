@@ -19,10 +19,9 @@ namespace InheritanceOfShape.Figures
 			Console.WriteLine($"The name of the object is: {Name}, the amount of angles is: {Angles} and the perimeter is {Perimeter}");
 		}
 
-		public override void SquareAndREctangleArea(int sideA)
+		public override void TypeOfObject()
 		{
-			base.SquareAndREctangleArea(sideA);
-			result = sideA + sideA;
+			Console.WriteLine("Current object is a square!");
 		}
 	}
 }

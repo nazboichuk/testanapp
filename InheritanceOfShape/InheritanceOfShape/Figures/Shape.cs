@@ -20,19 +20,9 @@ namespace InheritanceOfShape.Figures
 			Name = name;
 		}
 
-		public double result;
-		public virtual void SquareAndREctangleArea(int sideA)
+		public virtual void TypeOfObject()
 		{
-
-		}
-		public virtual void SquareAndREctangleArea(int sideA, int sideB)
-		{
-
-		}
-
-		public void ShowResult()
-		{
-			Console.WriteLine($"Object contain  {result}");
+			Console.WriteLine($"This is an simple object!");
 		}
 	}
 }

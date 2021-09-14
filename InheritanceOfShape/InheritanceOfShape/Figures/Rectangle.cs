@@ -21,5 +21,10 @@ namespace InheritanceOfShape.Figures
 			Perimeter = 2 * (sideA + sideB);
 			Console.WriteLine($"The name of the object is: {Name}, the amount of angles is: {Angles} and the perimeter is {Perimeter}");
 		}
+
+		public override void TypeOfObject()
+		{
+			Console.WriteLine("Current object is a rectangle!");
+		}
 	}
 }
