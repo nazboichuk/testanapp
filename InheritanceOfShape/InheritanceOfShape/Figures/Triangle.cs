@@ -23,7 +23,11 @@ namespace InheritanceOfShape.Figures
 			double sideC = double.Parse(Console.ReadLine());
 			Perimeter = (sideA + sideB + sideC) / 2;
 			Console.WriteLine($"The name of the object is: {Name}, the amount of angles is: {Angles} and the perimeter is {Perimeter}");
+		}
 
+		public override void TypeOfObject()
+		{
+			Console.WriteLine("Current object is a square!");
 		}
 	}
 }

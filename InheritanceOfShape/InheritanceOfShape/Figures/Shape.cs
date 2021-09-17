@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InheritanceOfShape.Figures
 {
-	public class Shape
+	public abstract class Shape
 	{
 		public string Name { get; }
 		public int Angles { get; }
@@ -20,9 +20,8 @@ namespace InheritanceOfShape.Figures
 			Name = name;
 		}
 
-		public virtual void TypeOfObject()
+		public abstract void TypeOfObject()
 		{
-			Console.WriteLine($"This is an simple object!");
 		}
 	}
 }

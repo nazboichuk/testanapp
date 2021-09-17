@@ -19,6 +19,10 @@ namespace InheritanceOfShape.Figures
 			Perimeter = radius * radius * pi;
 			Console.WriteLine($"The name of the object is: {Name}, the amount of angles is: {Angles} and the perimeter is {Math.Ceiling(Perimeter)}");
 
+		public override void TypeOfObject()
+		{
+			Console.WriteLine("Current object is a square!");
 		}
+	}
 	}
 }
