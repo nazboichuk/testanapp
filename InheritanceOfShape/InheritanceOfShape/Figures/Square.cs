@@ -7,21 +7,13 @@ namespace InheritanceOfShape.Figures
 	class Square : Shape
 	{
 		public double sideA;
-		public double Perimeter;
 
-		public Square(string name, int angles, double perimeter = 0) : base(name, angles)
+		public Square(double sideA) : base("Square")
 		{
-			Perimeter = perimeter;
-			Console.WriteLine("---------------- Calculate Square ----------------");
-			Console.WriteLine("Enter Side:");
-			double sideA = double.Parse(Console.ReadLine());
-			Perimeter = sideA * sideA;
-			Console.WriteLine($"The name of the object is: {Name}, the amount of angles is: {Angles} and the perimeter is {Perimeter}");
+			this.sideA = sideA;
 		}
 
-		public override void TypeOfObject()
-		{
-			Console.WriteLine("Current object is a square!");
-		}
+		public double CalculatePerimetr() => Math.Round(4 * sideA);
+		public override double CalculateSquare() => Math.Round(sideA * sideA);
 	}
 }

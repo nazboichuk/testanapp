@@ -9,25 +9,17 @@ namespace InheritanceOfShape.Figures
 		public double sideA;
 		public double sideB;
 		public double sideC;
-		public double Perimeter;
+		public double height;
 
-		public Triangle(string name, int angles, double perimeter = 0) : base(name, angles)
+		public Triangle(double sideA, double sideB, double sideC, double height) : base("Triangle")
 		{
-			Perimeter = perimeter;
-			Console.WriteLine("---------------- Calculate Triangle ----------------");
-			Console.WriteLine("Enter Side A:");
-			double sideA = double.Parse(Console.ReadLine());
-			Console.WriteLine("Enter Side B:");
-			double sideB = double.Parse(Console.ReadLine());
-			Console.WriteLine("Enter Side C:");
-			double sideC = double.Parse(Console.ReadLine());
-			Perimeter = (sideA + sideB + sideC) / 2;
-			Console.WriteLine($"The name of the object is: {Name}, the amount of angles is: {Angles} and the perimeter is {Perimeter}");
+			this.sideA = sideA;
+			this.sideB = sideB;
+			this.sideC = sideC;
+			this.height = height;
 		}
 
-		public override void TypeOfObject()
-		{
-			Console.WriteLine("Current object is a square!");
-		}
+		public double CalculatePerimetr() => Math.Round(sideA + sideB + sideC);
+		public override double CalculateSquare() => Math.Round(height * sideA / 2, 2);
 	}
 }

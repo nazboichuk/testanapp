@@ -8,23 +8,14 @@ namespace InheritanceOfShape.Figures
 	{
 		public double sideA;
 		public double sideB;
-		public double Perimeter;
 
-		public Rectangle(string name, int angles, double perimeter = 0) : base(name, angles)
+		public Rectangle(double sideA, double sideB) : base("Rectangle")
 		{
-			Perimeter = perimeter;
-			Console.WriteLine("---------------- Calculate Rectangle ----------------");
-			Console.WriteLine("Enter Side A:");
-			double sideA = double.Parse(Console.ReadLine());
-			Console.WriteLine("Enter Side B:");
-			double sideB = double.Parse(Console.ReadLine());
-			Perimeter = 2 * (sideA + sideB);
-			Console.WriteLine($"The name of the object is: {Name}, the amount of angles is: {Angles} and the perimeter is {Perimeter}");
+			this.sideA = sideA;
+			this.sideB = sideB;
 		}
 
-		public override void TypeOfObject()
-		{
-			Console.WriteLine("Current object is a rectangle!");
-		}
+		public double CalculatePerimetr() => Math.Round(2 * (sideA + sideB));
+		public override double CalculateSquare() => Math.Round(sideA * sideB);
 	}
 }
