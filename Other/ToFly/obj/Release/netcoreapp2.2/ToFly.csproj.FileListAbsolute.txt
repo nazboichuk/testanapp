@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\bin\Release\netcoreapp2.2\ToFly.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\bin\Release\netcoreapp2.2\ToFly.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\bin\Release\netcoreapp2.2\ToFly.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\bin\Release\netcoreapp2.2\ToFly.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\bin\Release\netcoreapp2.2\ToFly.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\obj\Release\netcoreapp2.2\ToFly.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\obj\Release\netcoreapp2.2\ToFly.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\obj\Release\netcoreapp2.2\ToFly.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\obj\Release\netcoreapp2.2\ToFly.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\obj\Release\netcoreapp2.2\ToFly.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ToFly\obj\Release\netcoreapp2.2\ToFly.pdb

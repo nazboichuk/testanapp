@@ -16,6 +16,7 @@ namespace InheritanceOfShape.Figures
 		}
 
 		public double CalculatePerimetr() => Math.Round(2 * (sideA + sideB));
+
 		public override double CalculateSquare() => Math.Round(sideA * sideB);
 	}
 }

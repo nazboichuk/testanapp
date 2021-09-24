@@ -1,0 +1,10 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\ReturnLastLetter.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\ReturnLastLetter.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\ReturnLastLetter.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\ReturnLastLetter.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\ReturnLastLetter.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\ReturnLastLetter.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\ReturnLastLetter.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\ReturnLastLetter.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\ReturnLastLetter.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\ReturnLastLetter.pdb

@@ -14,6 +14,7 @@ namespace InheritanceOfShape.Figures
 		}
 
 		public double CalculateLength() => Math.Round(2 * Math.PI * radius, 2);
+
 		public override double CalculateSquare() => Math.Round(Math.PI * radius * radius, 2);
 	}
 }

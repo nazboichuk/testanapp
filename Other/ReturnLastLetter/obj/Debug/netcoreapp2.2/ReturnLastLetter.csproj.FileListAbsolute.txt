@@ -1,0 +1,4 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Debug\netcoreapp2.2\ReturnLastLetter.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Debug\netcoreapp2.2\ReturnLastLetter.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Debug\netcoreapp2.2\ReturnLastLetter.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Debug\netcoreapp2.2\ReturnLastLetter.AssemblyInfo.cs

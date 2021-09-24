@@ -1,0 +1,10 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\bin\Debug\netcoreapp2.2\RemoveExclamationMarks.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\bin\Debug\netcoreapp2.2\RemoveExclamationMarks.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\bin\Debug\netcoreapp2.2\RemoveExclamationMarks.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\bin\Debug\netcoreapp2.2\RemoveExclamationMarks.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\bin\Debug\netcoreapp2.2\RemoveExclamationMarks.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\obj\Debug\netcoreapp2.2\RemoveExclamationMarks.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\obj\Debug\netcoreapp2.2\RemoveExclamationMarks.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\obj\Debug\netcoreapp2.2\RemoveExclamationMarks.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\obj\Debug\netcoreapp2.2\RemoveExclamationMarks.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\RemoveExclamationMarks\obj\Debug\netcoreapp2.2\RemoveExclamationMarks.pdb
