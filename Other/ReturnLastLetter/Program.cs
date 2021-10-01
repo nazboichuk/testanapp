@@ -8,15 +8,19 @@ namespace ReturnLastLetter
 	{
 		static void Main(string[] args)
 		{
-			var arr = new int[] { 1, 2, 4 };
-			Console.WriteLine();
-			var word = Console.ReadLine();
-			RemoveLettersByIndex(word, arr);
+			var arr = new int[] { 0, 1 };
+			Console.WriteLine("Enter the string:");
+			string word = Console.ReadLine();
+			Console.WriteLine(RemoveLettersByIndex(word, arr));
 		}
 
-		private static void RemoveLettersByIndex(string word, int[] arr)
+		private static string RemoveLettersByIndex(string word, int[] arr)
 		{
-			throw new NotImplementedException();
+			foreach (int value in arr)
+			{
+				word = word.Remove(value, 1);
+			}
+			return word;
 		}
 	}
 }

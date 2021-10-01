@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\bin\Debug\netcoreapp2.2\PersonDictionary.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\bin\Debug\netcoreapp2.2\PersonDictionary.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\bin\Debug\netcoreapp2.2\PersonDictionary.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\bin\Debug\netcoreapp2.2\PersonDictionary.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\bin\Debug\netcoreapp2.2\PersonDictionary.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\obj\Debug\netcoreapp2.2\PersonDictionary.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\obj\Debug\netcoreapp2.2\PersonDictionary.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\obj\Debug\netcoreapp2.2\PersonDictionary.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\obj\Debug\netcoreapp2.2\PersonDictionary.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\obj\Debug\netcoreapp2.2\PersonDictionary.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\PersonDictionary\obj\Debug\netcoreapp2.2\PersonDictionary.pdb

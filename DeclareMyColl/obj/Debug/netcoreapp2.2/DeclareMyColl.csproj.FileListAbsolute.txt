@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\bin\Debug\netcoreapp2.2\DeclareMyColl.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\bin\Debug\netcoreapp2.2\DeclareMyColl.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\bin\Debug\netcoreapp2.2\DeclareMyColl.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\bin\Debug\netcoreapp2.2\DeclareMyColl.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\bin\Debug\netcoreapp2.2\DeclareMyColl.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\obj\Debug\netcoreapp2.2\DeclareMyColl.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\obj\Debug\netcoreapp2.2\DeclareMyColl.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\obj\Debug\netcoreapp2.2\DeclareMyColl.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\obj\Debug\netcoreapp2.2\DeclareMyColl.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\obj\Debug\netcoreapp2.2\DeclareMyColl.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\DeclareMyColl\obj\Debug\netcoreapp2.2\DeclareMyColl.pdb

@@ -1,0 +1,11 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\RemoveLettersByIndex.deps.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\RemoveLettersByIndex.runtimeconfig.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\RemoveLettersByIndex.runtimeconfig.dev.json
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\RemoveLettersByIndex.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\bin\Release\netcoreapp2.2\RemoveLettersByIndex.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\RemoveLettersByIndex.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\RemoveLettersByIndex.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\RemoveLettersByIndex.AssemblyInfoInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\RemoveLettersByIndex.AssemblyInfo.cs
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\RemoveLettersByIndex.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\Other\ReturnLastLetter\obj\Release\netcoreapp2.2\RemoveLettersByIndex.pdb

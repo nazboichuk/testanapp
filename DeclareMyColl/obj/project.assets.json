@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\ReturnLastLetter\\RemoveLettersByIndex.csproj",
-      "projectName": "RemoveLettersByIndex",
-      "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\ReturnLastLetter\\RemoveLettersByIndex.csproj",
+      "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\DeclareMyColl\\DeclareMyColl.csproj",
+      "projectName": "DeclareMyColl",
+      "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\DeclareMyColl\\DeclareMyColl.csproj",
       "packagesPath": "C:\\Users\\nboichuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\ReturnLastLetter\\obj\\",
+      "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\DeclareMyColl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

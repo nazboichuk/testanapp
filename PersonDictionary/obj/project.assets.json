@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\ReturnLastLetter\\RemoveLettersByIndex.csproj",
-      "projectName": "RemoveLettersByIndex",
-      "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\ReturnLastLetter\\RemoveLettersByIndex.csproj",
+      "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\PersonDictionary\\PersonDictionary.csproj",
+      "projectName": "PersonDictionary",
+      "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\PersonDictionary\\PersonDictionary.csproj",
       "packagesPath": "C:\\Users\\nboichuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\Other\\ReturnLastLetter\\obj\\",
+      "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\PersonDictionary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

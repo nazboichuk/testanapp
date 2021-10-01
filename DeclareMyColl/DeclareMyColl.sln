@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclareMyColl", "DeclareMyColl.csproj", "{30E5DF69-A314-49F0-B28B-4EB3018213DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonDictionary", "..\PersonDictionary\PersonDictionary.csproj", "{1601D922-20A8-490A-B4AF-C46FB988FD32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E5DF69-A314-49F0-B28B-4EB3018213DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E5DF69-A314-49F0-B28B-4EB3018213DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E5DF69-A314-49F0-B28B-4EB3018213DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E5DF69-A314-49F0-B28B-4EB3018213DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1601D922-20A8-490A-B4AF-C46FB988FD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1601D922-20A8-490A-B4AF-C46FB988FD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1601D922-20A8-490A-B4AF-C46FB988FD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1601D922-20A8-490A-B4AF-C46FB988FD32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074D63D4-08F9-48D3-BE97-F9F10736D071}
+	EndGlobalSection
+EndGlobal
