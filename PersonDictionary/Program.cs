@@ -24,26 +24,23 @@ namespace PersonDictionary
 			}
 
 			// Ask user to enter ID, then find and write corresponding Name from your Dictionary. If you can't find this ID - say about it to user.
+			Console.WriteLine("Press key to start the search by ID:");
+			int ID = int.Parse(Console.ReadLine());
 			try
 			{
-				Console.WriteLine("Press key to start the search by ID:");
-				int ID = int.Parse(Console.ReadLine());
-
-				if (numberNames.ContainsKey(ID))
-				{
-					Console.WriteLine(numberNames[ID]);
-
-				}
+				numberNames.ContainsKey(ID);
+				Console.WriteLine("Values is: " + numberNames[ID].ToString());
 			}
-			catch (Exception)
+
+			catch (Exception ex)
 			{
-				Console.WriteLine("Key not present");
+				throw new Exception("Key is not present ex!" + ex.Message, ex);
 			}
 
-			//			catch (DivideByZeroException ex)
-			//			{
-			//				Console.WriteLine(ex.Message);
-			//			}
+			finally
+			{
+				Console.WriteLine("Done!");
+			}
 		}
 	}
 }
