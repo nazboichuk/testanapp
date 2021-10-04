@@ -32,14 +32,14 @@ namespace PersonDictionary
 				Console.WriteLine("Values is: " + numberNames[ID].ToString());
 			}
 
-			catch (Exception ex)
+			catch (Exception wrong)
 			{
-				throw new Exception("Key is not present ex!" + ex.Message, ex);
+				Console.WriteLine("Main Exception: {0}", wrong.Message);
 			}
 
 			finally
 			{
-				Console.WriteLine("Done!");
+				Console.WriteLine("However, it's done!");
 			}
 		}
 	}
