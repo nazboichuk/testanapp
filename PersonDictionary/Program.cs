@@ -28,13 +28,12 @@ namespace PersonDictionary
 			int ID = int.Parse(Console.ReadLine());
 			try
 			{
-				numberNames.ContainsKey(ID);
 				Console.WriteLine("Values is: " + numberNames[ID].ToString());
 			}
 
-			catch (Exception wrong)
+			catch (KeyNotFoundException ex)
 			{
-				Console.WriteLine("Main Exception: {0}", wrong.Message);
+				Console.WriteLine("Main Exception: {0}", ex.Message);
 			}
 
 			finally
