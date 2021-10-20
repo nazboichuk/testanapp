@@ -1,0 +1,14 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\AutomateCalculator.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\AutomateCalculator.pdb
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\obj\Debug\AutomateCalculator.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\obj\Debug\AutomateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\obj\Debug\AutomateCalculator.csproj.CopyComplete
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\obj\Debug\AutomateCalculator.dll
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\obj\Debug\AutomateCalculator.pdb

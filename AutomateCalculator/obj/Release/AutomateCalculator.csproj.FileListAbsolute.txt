@@ -1,0 +1,2 @@
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\obj\Release\AutomateCalculator.csprojAssemblyReference.cache
+C:\Users\nboichuk\Documents\GitHub\testanapp\AutomateCalculator\obj\Release\AutomateCalculator.csproj.CoreCompileInputs.cache
