@@ -1,0 +1,98 @@
+{
+  "uuid": "3158f666-7446-47ae-abaa-15227b8f8683-tr-0-1001",
+  "historyId": "Tests.Tests.Test1",
+  "fullName": "Tests.Tests.Test1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "BUYER"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "package",
+      "value": "Tests.Tests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test1",
+    "trace": "   at Tests.Tests.Test1() in C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\UnitTest1.cs:line 27\r\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Test1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "",
+        "trace": "   at Tests.Tests.Test1() in C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\UnitTest1.cs:line 27\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "14d7575983c540df9eff2b1a5857f054-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1634919459954,
+      "stop": 1634919459984
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1634919459954,
+  "stop": 1634919459991
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f226aef6-227f-46f0-ad66-6db8aa68962e-tc-0-1000",
+  "name": "Tests.Tests.Test1",
+  "children": [
+    "3158f666-7446-47ae-abaa-15227b8f8683-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1634919459980,
+      "stop": 1634919459980
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1634919459950,
+  "stop": 1634919460016
+}

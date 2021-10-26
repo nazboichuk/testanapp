@@ -1,28 +1,42 @@
 ﻿using OpenQA.Selenium.Appium.Windows;
+using System;
 
 namespace CalculatorTest
 {
 	public class CalculatorPage
 	{
+		#region Constructor and private field 
 		private WindowsDriver<WindowsElement> driver;
-
-		public CalculatorPage(WindowsDriver<WindowsElement> driver)
+		private CalculatorPage(WindowsDriver<WindowsElement> driver)
 		{
 			this.driver = driver;
 		}
 
-		private WindowsElement ButtonTwo => driver.FindElementByName("Two");
-		private WindowsElement ButtonPlus => driver.FindElementByName("Plus");
-		private WindowsElement ButtonSeven => driver.FindElementByName("Seven");
-		private WindowsElement ButtonEquals => driver.FindElementByName("Equals");
-		private WindowsElement ButtonEight => driver.FindElementByAccessibilityId("num8Button");
-		private WindowsElement ButtonDivide => driver.FindElementByAccessibilityId("divideButton");
-		private WindowsElement ButtonOne => driver.FindElementByAccessibilityId("num1Button");
-		private WindowsElement ButtonNine => driver.FindElementByXPath("//Button[@Name='Nine']");
-		private WindowsElement ButtonMultiply => driver.FindElementByXPath("//Button[@Name='Multiply by']");
-		private WindowsElement ButtonMinus => driver.FindElementByXPath("//Button[@AutomationId=\"minusButton\"]");
-		//private WindowsElement calculatorResult;
+		private static CalculatorPage _page = null;
+		public static CalculatorPage GetInstance(WindowsDriver<WindowsElement> driver)
+		{
+			if (_page == null)
+			{
+				_page = new CalculatorPage(driver);
+			}
+			return _page;
+		}
+		#endregion
 
+		#region Window elements
+		private WindowsElement ButtonOne => driver.FindElementByName("One");
+		private WindowsElement ButtonTwo => driver.FindElementByName("Two");
+		private WindowsElement ButtonSeven => driver.FindElementByName("Seven");
+		private WindowsElement ButtonEight => driver.FindElementByName("Eight");
+		private WindowsElement ButtonNine => driver.FindElementByName("Nine");
+		private WindowsElement ButtonDivide => driver.FindElementByName("Divide by");
+		private WindowsElement ButtonMultiply => driver.FindElementByName("Multiply by");
+		private WindowsElement ButtonPlus => driver.FindElementByName("Plus");
+		private WindowsElement ButtonMinus => driver.FindElementByName("Minus");
+		private WindowsElement ButtonEquals => driver.FindElementByName("Equals");
+		#endregion
+
+		#region Elements interaction
 		public CalculatorPage ClickButtonTwo()
 		{
 			ButtonTwo.Click();
@@ -82,10 +96,6 @@ namespace CalculatorTest
 			ButtonMinus.Click();
 			return this;
 		}
-
-		//public string GetCalculatorResultText()
-		//{
-		//	return calculatorResult.Text.Replace("Display is", string.Empty).Trim();
-		//}
+		#endregion
 	}
 }

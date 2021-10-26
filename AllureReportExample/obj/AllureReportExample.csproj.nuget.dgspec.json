@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\AllureReportExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\AllureReportExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\AllureReportExample.csproj",
+        "projectName": "AllureReportExample",
+        "projectPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\AllureReportExample.csproj",
+        "packagesPath": "C:\\Users\\nboichuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nboichuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Allure.Commons": {
+              "target": "Package",
+              "version": "[3.5.0.73, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit.Allure": {
+              "target": "Package",
+              "version": "[1.0.14, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "WinAppDriverTestFramework": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

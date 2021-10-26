@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "PassedSuite",
+    "children" : [ {
+      "name" : "NoAssert",
+      "children" : [ {
+        "name" : "Test1",
+        "uid" : "6098a4f2346a7d91",
+        "parentUid" : "da3e1e56bbe32278e5bbea198c83b0a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634919459954,
+          "stop" : 1634919459991,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da3e1e56bbe32278e5bbea198c83b0a3"
+    } ],
+    "uid" : "4eb2ccfc8ee6913e909217204b05ba10"
+  } ]
+}

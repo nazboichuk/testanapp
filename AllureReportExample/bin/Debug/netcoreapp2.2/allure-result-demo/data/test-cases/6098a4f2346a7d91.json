@@ -1,0 +1,123 @@
+{
+  "uid" : "6098a4f2346a7d91",
+  "name" : "Test1",
+  "fullName" : "Tests.Tests.Test1",
+  "historyId" : "Tests.Tests.Test1",
+  "time" : {
+    "start" : 1634919459954,
+    "stop" : 1634919459991,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "statusMessage" : "Test1",
+  "statusTrace" : "   at Tests.Tests.Test1() in C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\UnitTest1.cs:line 27\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Setup",
+    "time" : {
+      "start" : 1634919459980,
+      "stop" : 1634919459980,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "statusMessage" : "Test1",
+    "statusTrace" : "   at Tests.Tests.Test1() in C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\UnitTest1.cs:line 27\r\n",
+    "steps" : [ {
+      "name" : "Test1",
+      "time" : {
+        "start" : 1634919459954,
+        "stop" : 1634919459984,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "statusMessage" : "",
+      "statusTrace" : "   at Tests.Tests.Test1() in C:\\Users\\nboichuk\\Documents\\GitHub\\testanapp\\AllureReportExample\\UnitTest1.cs:line 27\r\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "698362a4fb96bf3",
+        "name" : "Console Output",
+        "source" : "698362a4fb96bf3.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "BUYER"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test1"
+  }, {
+    "name" : "package",
+    "value" : "Tests.Tests"
+  }, {
+    "name" : "tag",
+    "value" : "Regression"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "owner",
+    "value" : "User"
+  }, {
+    "name" : "suite",
+    "value" : "PassedSuite"
+  }, {
+    "name" : "subSuite",
+    "value" : "NoAssert"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "ISSUE-1",
+    "url" : "ISSUE-1",
+    "type" : "issue"
+  }, {
+    "name" : "TMS-12",
+    "url" : "TMS-12",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "owner" : "User",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Regression" ]
+  },
+  "source" : "6098a4f2346a7d91.json",
+  "parameterValues" : [ ]
+}

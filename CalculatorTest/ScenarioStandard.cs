@@ -2,68 +2,95 @@
 using System.Threading;
 using System;
 using NUnit.Framework;
+using NUnit.Allure.Core;
+using NUnit.Allure.Attributes;
+using Allure.Commons;
 
 namespace CalculatorTest
 {
+	[AllureNUnit]
+
 	public class ScenarioStandard : CalculatorSession
 	{
 		private static WindowsElement header;
 		private static WindowsElement calculatorResult;
 		private static CalculatorPage calculator;
 
-		[Test]
-		public void Addition()
+		[Test, TestCase("9")]
+		[AllureTag("Regression")]
+		[AllureSeverity(SeverityLevel.critical)]
+		[AllureIssue("ISSUE-1")]
+		[AllureTms("TMS-12")]
+		[AllureOwner("User")]
+		[AllureSuite("PassedSuite")]
+		[AllureSubSuite("NoAssert")]
+		public void Addition(string expectedResult)
 		{
-			// Find the buttons by their names and click them in sequence to perform 2 + 7 = 9
 			calculator.ClickButtonTwo();
 			calculator.ClickButtonPlus();
 			calculator.ClickButtonSeven();
 			calculator.ClickButtonEquals();
-			Assert.AreEqual("9", GetCalculatorResultText());
+			Assert.AreEqual(expectedResult, GetCalculatorResultText());
 		}
 
-		[Test]
-		public void Division()
+		[Test, TestCase("8")]
+		[AllureTag("Regression")]
+		[AllureSeverity(SeverityLevel.critical)]
+		[AllureIssue("ISSUE-1")]
+		[AllureTms("TMS-12")]
+		[AllureOwner("User")]
+		[AllureSuite("PassedSuite")]
+		[AllureSubSuite("NoAssert")]
+		public void Division(string expectedResult)
 		{
-			// Find the buttons by their accessibility ids and click them in sequence to perform 88 / 11 = 8
 			calculator.ClickButtonEight();
 			calculator.ClickButtonEight();
 			calculator.ClickButtonDivide();
 			calculator.ClickButtonOne();
 			calculator.ClickButtonOne();
 			calculator.ClickButtonEquals();
-			Assert.AreEqual("8", GetCalculatorResultText());
+			Assert.AreEqual(expectedResult, GetCalculatorResultText());
 		}
 
-		[Test]
-		public void Multiplication()
+		[Test, TestCase("81")]
+		[AllureTag("Regression")]
+		[AllureSeverity(SeverityLevel.critical)]
+		[AllureIssue("ISSUE-1")]
+		[AllureTms("TMS-12")]
+		[AllureOwner("User")]
+		[AllureSuite("PassedSuite")]
+		[AllureSubSuite("NoAssert")]
+		public void Multiplication(string expectedResult)
 		{
-			// Find the buttons by their names using XPath and click them in sequence to perform 9 x 9 = 81
 			calculator.ClickButtonNine();
 			calculator.ClickButtonMultiply();
 			calculator.ClickButtonNine();
 			calculator.ClickButtonEquals();
-			Assert.AreEqual("81", GetCalculatorResultText());
+			Assert.AreEqual(expectedResult, GetCalculatorResultText());
 		}
 
-		[Test]
-		public void Subtraction()
+		[Test, TestCase("8")]
+		[AllureTag("Regression")]
+		[AllureSeverity(SeverityLevel.normal)]
+		[AllureOwner("User")]
+		[AllureSuite("PassedSuite")]
+		[AllureSubSuite("NoAssert")]
+		public void Subtraction(string expectedResult)
 		{
-			// Find the buttons by their accessibility ids using XPath and click them in sequence to perform 9 - 1 = 8
 			calculator.ClickButtonNine();
 			calculator.ClickButtonMinus();
 			calculator.ClickButtonOne();
 			calculator.ClickButtonEquals();
-			Assert.AreEqual("8", GetCalculatorResultText());
+			Assert.AreEqual(expectedResult, GetCalculatorResultText());
 		}
-
 
 		[OneTimeSetUp]
 		public static void ClassInitialize()
 		{
 			// Create session to launch a Calculator window
 			Setup();
-			calculator = new CalculatorPage(session);
+			calculator = CalculatorPage.GetInstance(session);
+
 			// Identify calculator mode by locating the header
 			try
 			{

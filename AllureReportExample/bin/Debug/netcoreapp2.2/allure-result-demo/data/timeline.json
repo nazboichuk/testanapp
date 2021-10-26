@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BUYER",
+    "children" : [ {
+      "name" : "NonParallelWorker",
+      "children" : [ {
+        "name" : "Test1",
+        "uid" : "6098a4f2346a7d91",
+        "parentUid" : "b6138ef9e3c93b17b52e536d4fb02612",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634919459954,
+          "stop" : 1634919459991,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b6138ef9e3c93b17b52e536d4fb02612"
+    } ],
+    "uid" : "5adbc88500e9900872eca8a89ade31b6"
+  } ]
+}
